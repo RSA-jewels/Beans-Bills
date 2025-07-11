@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rsa-jewels.github.io/Beans-Bills/sitemap.xml
